@@ -57,12 +57,10 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_python_python_exec = '/usr/bin/python3'
-let g:syntastic_python_checkers = ['pylint']
+" let g:syntastic_python_checkers = ['flake8']
 
 " All of your Plugins must be added before the following line
 call vundle#end()
 
 filetype plugin indent on
-
-
 
