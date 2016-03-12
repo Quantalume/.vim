@@ -59,6 +59,8 @@ let g:syntastic_check_on_wq = 0
 let g:syntastic_python_python_exec = '/usr/bin/python3'
 " let g:syntastic_python_checkers = ['flake8']
 
+Plugin 'dhruvasagar/vim-table-mode'
+
 " All of your Plugins must be added before the following line
 call vundle#end()
 
