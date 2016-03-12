@@ -2,7 +2,8 @@ set nocompatible
 filetype off
 
 set t_Co=256
-colorscheme peaksea
+colorscheme slate
+set background=dark
 
 set hlsearch
 set smartcase
