@@ -62,6 +62,8 @@ let g:syntastic_python_python_exec = '/usr/bin/python3'
 
 Plugin 'dhruvasagar/vim-table-mode'
 
+Plugin 'sudar/vim-arduino-syntax'
+
 " All of your Plugins must be added before the following line
 call vundle#end()
 
